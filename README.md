@@ -1,4 +1,4 @@
-# Soroban Project
+## Soroban Project
 
 ## Project Structure
 
